@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Simple express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donika Pavlova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ejs": "^1.0.0"
+  },
+
+   
+}
